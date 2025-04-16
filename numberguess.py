@@ -1,7 +1,7 @@
 import random
 
 def number_guessing_game():
-    print("Welcome to GrandMaster Number Guessing Game!")
+    print("Welcome to Grandmaster Number Guessing Game!")
     print("What number am I thinking between 1 and 100?")
 
     number_to_guess = random.randint(1, 100)
